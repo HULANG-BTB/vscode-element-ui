@@ -1,8 +1,9 @@
 {
-	"name": "element-ui",
-	"displayName": "element-ui",
-	"description": "element-ui",
+	"name": "element-ui-helper",
+	"displayName": "element-ui-helper",
+	"description": "element-ui-helper",
 	"version": "0.0.1",
+	"publisher": "oibit",
 	"engines": {
 		"vscode": "^1.50.0"
 	},
