@@ -2,8 +2,9 @@
 	"name": "element-ui-helper",
 	"displayName": "element-ui-helper",
 	"description": "element-ui-helper",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "oibit",
+	"icon": "element.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/HULANG-BTB/vscode-element-ui.git"
