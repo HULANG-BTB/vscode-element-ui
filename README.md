@@ -18,7 +18,7 @@ Element-UI is a great library. More and more projects use it. So, For helping de
 
 The only step to use this extension is moving yout cursor to Element-UI tag.
 
-![example](./example.gif)
+![example](https://github.com/HULANG-BTB/vscode-element-ui/raw/master/example.gif)
 
 ## Contribution
 
