@@ -4,6 +4,10 @@
 	"description": "element-ui-helper",
 	"version": "0.0.1",
 	"publisher": "oibit",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/HULANG-BTB/vscode-element-ui.git"
+	},
 	"engines": {
 		"vscode": "^1.50.0"
 	},
